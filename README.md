@@ -1,1 +1,1 @@
-# Similar-to-Geometry-Dash-Platform-Game
+This project contains all of the written Verilog code for the game
