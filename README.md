@@ -1,1 +1,1 @@
-This project contains all of the written Verilog code for the game
+This project contains all of the written Verilog code for the game.
